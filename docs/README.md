@@ -1,5 +1,5 @@
 ---
-layout: HomePage
+layout: Homepage
 siteTitle: 母體科技
 heroImage: /home.jpg
 actionText: 開啟壹站式服務 →
