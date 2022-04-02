@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="ticket">
-            <h1 class="subject">母體科技支援香港科技券(TVP)計劃</h1>
+            <h1 class="subject">肯納科技支援香港科技券(TVP)計劃</h1>
             <h2 class="title">TVP香港科技券計劃</h2>
             <div class="description">香港科技券計劃 (TVP) 由創新科技署於 2016 年 11 月推出，旨在資助本地非上市企業使用科技服務和方案，以提高生產力或就其業務流程升級轉型。
                 創新及科技基金將會為每家合資格的企業提供高達港幣 $400,000 的數碼轉型資金。</div>

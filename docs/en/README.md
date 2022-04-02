@@ -1,14 +1,14 @@
 ---
 layout: Homepage
 siteTitle: 母体科技
-heroImage: /home.jpg
+heroImage: /kenna-logo.jpg
 actionText: 开启一站式服务 →
 actionLink: /zh/guide/
 features:
 - title: IOS APP開發
   tag: ios
   icon: http://www.kubikeji.com/templets/KuBiKeJi/img_new/ios-ico.png
-  details: 多年來，IOS應用程序開發壹直是“母體科技”的首要任務，隨著IOS11的推出，Apple已經樹立了新的標準。我們的開發團隊在構建IOS應用程序並在APP Store成功啟動他們。
+  details: 多年來，IOS應用程序開發壹直是“肯納科技”的首要任務，隨著IOS11的推出，Apple已經樹立了新的標準。我們的開發團隊在構建IOS應用程序並在APP Store成功啟動他們。
 - title: Android APP開發
   tag: andr
   icon: http://www.kubikeji.com/templets/KuBiKeJi/img_new/android-ico.png

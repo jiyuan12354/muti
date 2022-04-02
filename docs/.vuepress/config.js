@@ -1,5 +1,5 @@
 module.exports = {
-  title: '母體科技',
+  title: '肯納科技',
   description: '幫妳做您想做的事',
   base: '/',
   head: [
@@ -61,7 +61,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '母體科技',
+      title: '肯納科技',
       description: '與我們壹起創造妳的專屬應用程序',
     },
     '/en/': {
